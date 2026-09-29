@@ -1,0 +1,12 @@
+{
+  "name": "LACA 24 — Laca Beer 24",
+  "short_name": "LACA 24",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#121110",
+  "theme_color": "#121110",
+  "icons": [
+    { "src": "assets/laca24/logo/laca24-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/laca24/logo/laca24-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "laca24-website",
+  "private": true,
+  "description": "LACA 24 — static website + serverless reservation email endpoint",
+  "type": "module",
+  "engines": {
+    "node": ">=18.18"
+  },
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "dev:dry": "node scripts/dev-server.mjs --dry-run"
+  }
+}
